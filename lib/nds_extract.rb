@@ -31,7 +31,7 @@ end
 
 def directors_totals(nds)
   result = {}
-  nds[][]
+  nds[index][:name]
   result[] = gross
   result
 end
